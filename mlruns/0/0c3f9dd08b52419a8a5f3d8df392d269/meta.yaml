@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0c3f9dd08b52419a8a5f3d8df392d269/artifacts
+end_time: 1723077831073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c3f9dd08b52419a8a5f3d8df392d269
+run_name: loud-deer-726
+run_uuid: 0c3f9dd08b52419a8a5f3d8df392d269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723077781082
+status: 4
+tags: []
+user_id: root
