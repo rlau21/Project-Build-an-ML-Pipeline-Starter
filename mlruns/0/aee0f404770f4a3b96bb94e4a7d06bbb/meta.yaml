@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/aee0f404770f4a3b96bb94e4a7d06bbb/artifacts
+end_time: 1723190633355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aee0f404770f4a3b96bb94e4a7d06bbb
+run_name: defiant-frog-410
+run_uuid: aee0f404770f4a3b96bb94e4a7d06bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723190621883
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/f75f736288d449da9398c23d6bc3da75/artifacts
+end_time: 1723190621761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f75f736288d449da9398c23d6bc3da75
+run_name: skittish-crane-800
+run_uuid: f75f736288d449da9398c23d6bc3da75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723190610068
+status: 4
+tags: []
+user_id: root
