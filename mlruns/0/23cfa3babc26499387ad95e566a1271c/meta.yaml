@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/23cfa3babc26499387ad95e566a1271c/artifacts
+end_time: 1723188949207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23cfa3babc26499387ad95e566a1271c
+run_name: adorable-gull-909
+run_uuid: 23cfa3babc26499387ad95e566a1271c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723188890731
+status: 4
+tags: []
+user_id: root

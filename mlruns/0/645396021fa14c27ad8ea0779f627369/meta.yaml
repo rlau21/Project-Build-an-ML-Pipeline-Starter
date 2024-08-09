@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/645396021fa14c27ad8ea0779f627369/artifacts
+end_time: 1723189032062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 645396021fa14c27ad8ea0779f627369
+run_name: awesome-pug-233
+run_uuid: 645396021fa14c27ad8ea0779f627369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723189030858
+status: 4
+tags: []
+user_id: root

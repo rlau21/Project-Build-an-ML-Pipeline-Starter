@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/59376ad58e42482a8d3b9eb60e51ea21/artifacts
+end_time: 1723189029374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59376ad58e42482a8d3b9eb60e51ea21
+run_name: bald-crane-892
+run_uuid: 59376ad58e42482a8d3b9eb60e51ea21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723189028105
+status: 4
+tags: []
+user_id: root
