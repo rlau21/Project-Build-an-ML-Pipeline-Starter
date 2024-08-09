@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/7a2ffdb02dba46c5a8fa64b96813717f/artifacts
+end_time: 1723186512448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a2ffdb02dba46c5a8fa64b96813717f
+run_name: powerful-skink-79
+run_uuid: 7a2ffdb02dba46c5a8fa64b96813717f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723186495192
+status: 4
+tags: []
+user_id: root
