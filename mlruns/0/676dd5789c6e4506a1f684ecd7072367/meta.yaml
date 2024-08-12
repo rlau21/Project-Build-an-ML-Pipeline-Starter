@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/676dd5789c6e4506a1f684ecd7072367/artifacts
+end_time: 1723476813912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 676dd5789c6e4506a1f684ecd7072367
+run_name: defiant-carp-581
+run_uuid: 676dd5789c6e4506a1f684ecd7072367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723476797260
+status: 4
+tags: []
+user_id: root

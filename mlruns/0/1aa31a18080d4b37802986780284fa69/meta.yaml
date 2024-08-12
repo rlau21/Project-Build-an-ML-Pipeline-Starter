@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/1aa31a18080d4b37802986780284fa69/artifacts
+end_time: 1723479271441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1aa31a18080d4b37802986780284fa69
+run_name: entertaining-cow-346
+run_uuid: 1aa31a18080d4b37802986780284fa69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723479139560
+status: 4
+tags: []
+user_id: root

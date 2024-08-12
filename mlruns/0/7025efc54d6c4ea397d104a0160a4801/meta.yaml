@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/7025efc54d6c4ea397d104a0160a4801/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7025efc54d6c4ea397d104a0160a4801
+run_name: sassy-ram-724
+run_uuid: 7025efc54d6c4ea397d104a0160a4801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723477730698
+status: 1
+tags: []
+user_id: root

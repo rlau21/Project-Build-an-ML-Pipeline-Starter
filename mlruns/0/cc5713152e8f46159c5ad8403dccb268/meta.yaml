@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/cc5713152e8f46159c5ad8403dccb268/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5713152e8f46159c5ad8403dccb268
+run_name: invincible-owl-407
+run_uuid: cc5713152e8f46159c5ad8403dccb268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723478880154
+status: 1
+tags: []
+user_id: root

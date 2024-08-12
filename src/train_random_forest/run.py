@@ -13,6 +13,9 @@ import json
 
 import pandas as pd
 import numpy as np
+# added for troubleshooting
+from mlflow.models import infer_signature
+
 from sklearn.compose import ColumnTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.impute import SimpleImputer

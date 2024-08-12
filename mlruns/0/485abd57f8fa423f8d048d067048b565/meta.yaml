@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/485abd57f8fa423f8d048d067048b565/artifacts
+end_time: 1723478879917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 485abd57f8fa423f8d048d067048b565
+run_name: thundering-squid-90
+run_uuid: 485abd57f8fa423f8d048d067048b565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723478810530
+status: 4
+tags: []
+user_id: root

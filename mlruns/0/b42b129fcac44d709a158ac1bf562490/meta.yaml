@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/b42b129fcac44d709a158ac1bf562490/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b42b129fcac44d709a158ac1bf562490
+run_name: gregarious-loon-454
+run_uuid: b42b129fcac44d709a158ac1bf562490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723477643731
+status: 1
+tags: []
+user_id: root

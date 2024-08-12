@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/7d0b5f0dffc542e9bf8f698d8b38e5b4/artifacts
+end_time: 1723478227359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d0b5f0dffc542e9bf8f698d8b38e5b4
+run_name: wistful-shrike-638
+run_uuid: 7d0b5f0dffc542e9bf8f698d8b38e5b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723478139632
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d60b12a5f8eb4659a4fab968dbd2ba80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d60b12a5f8eb4659a4fab968dbd2ba80
+run_name: welcoming-kite-671
+run_uuid: d60b12a5f8eb4659a4fab968dbd2ba80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723477541487
+status: 1
+tags: []
+user_id: root
