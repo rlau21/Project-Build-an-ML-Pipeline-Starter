@@ -106,7 +106,7 @@ def go(args):
         skmodel = sk_pipe,
         path = "random_forest_dir",
         signature = signature,
-        input_example = X_train.iloc[:5]
+        input_example = X_val.iloc[:5]
     )
     ######################################
 

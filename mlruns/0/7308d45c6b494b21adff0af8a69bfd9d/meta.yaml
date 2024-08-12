@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/7308d45c6b494b21adff0af8a69bfd9d/artifacts
+end_time: 1723479723898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7308d45c6b494b21adff0af8a69bfd9d
+run_name: bold-snake-224
+run_uuid: 7308d45c6b494b21adff0af8a69bfd9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723479586841
+status: 4
+tags: []
+user_id: root

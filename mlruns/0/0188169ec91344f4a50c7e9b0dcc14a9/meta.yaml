@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0188169ec91344f4a50c7e9b0dcc14a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0188169ec91344f4a50c7e9b0dcc14a9
+run_name: traveling-snipe-585
+run_uuid: 0188169ec91344f4a50c7e9b0dcc14a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723479724145
+status: 1
+tags: []
+user_id: root

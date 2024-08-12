@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/ecabbdb50054428da7c75062d74f7457/artifacts
+end_time: 1723479586551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecabbdb50054428da7c75062d74f7457
+run_name: loud-dove-63
+run_uuid: ecabbdb50054428da7c75062d74f7457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723479504991
+status: 4
+tags: []
+user_id: root

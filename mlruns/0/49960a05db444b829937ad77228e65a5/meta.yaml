@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/49960a05db444b829937ad77228e65a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49960a05db444b829937ad77228e65a5
+run_name: omniscient-mole-44
+run_uuid: 49960a05db444b829937ad77228e65a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723479500361
+status: 1
+tags: []
+user_id: root
