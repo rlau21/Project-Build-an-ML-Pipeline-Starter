@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/927b6698b8114776b3084b423964c627/artifacts
+end_time: 1723374970845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927b6698b8114776b3084b423964c627
+run_name: sedate-frog-770
+run_uuid: 927b6698b8114776b3084b423964c627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723374959123
+status: 4
+tags: []
+user_id: root

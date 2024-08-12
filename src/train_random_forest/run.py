@@ -24,6 +24,9 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import Pipeline, make_pipeline
 
+# added for OneHotEncoder to work
+from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder, FunctionTransformer
+
 
 def delta_date_feature(dates):
     """
