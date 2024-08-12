@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/58280311c2de489eb49db4bb6b74773d/artifacts
+end_time: 1723480587645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58280311c2de489eb49db4bb6b74773d
+run_name: redolent-stork-353
+run_uuid: 58280311c2de489eb49db4bb6b74773d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723480577806
+status: 4
+tags: []
+user_id: root

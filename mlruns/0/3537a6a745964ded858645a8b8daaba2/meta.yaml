@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/3537a6a745964ded858645a8b8daaba2/artifacts
+end_time: 1723480307353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3537a6a745964ded858645a8b8daaba2
+run_name: puzzled-crow-8
+run_uuid: 3537a6a745964ded858645a8b8daaba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723480182875
+status: 4
+tags: []
+user_id: root

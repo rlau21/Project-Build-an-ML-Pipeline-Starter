@@ -106,6 +106,8 @@ def go(args):
         skmodel = sk_pipe,
         path = "random_forest_dir",
         signature = signature,
+        #new line added for issue resolution, commented back out due to SyntaxError: invalid syntax
+        #serialization_format=mlflow.sklearn.SERIALIZATION_FORMAT_CLOUDPICKLE
         input_example = X_val.iloc[:5]
     )
     ######################################

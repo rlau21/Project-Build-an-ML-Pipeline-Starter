@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/12ae3526a4e64753bd72d53a15abffe4/artifacts
+end_time: 1723481364952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12ae3526a4e64753bd72d53a15abffe4
+run_name: smiling-snipe-17
+run_uuid: 12ae3526a4e64753bd72d53a15abffe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723481363678
+status: 4
+tags: []
+user_id: root
