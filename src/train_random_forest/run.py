@@ -105,7 +105,7 @@ def go(args):
     # HINT: use mlflow.sklearn.save_model
     export_path = "random_forest_dir" #added for troubleshooting
     #signature = mlflow.models.infer_signature(X_val, y_pred)
-    signature = infer_signature(X_val, y_pred)
+    #signature = infer_signature(X_val, y_pred)
     mlflow.sklearn.save_model(
         #sk_model = sk_pipe,
         sk_pipe, #added for troubleshooting
@@ -113,7 +113,7 @@ def go(args):
         export_path, #added for troubleshooting
         #signature = signature,
         #signature = infer_signature(.5, 1),
-        signature=signature,
+        #signature=signature,
         #new line added for issue resolution, commented back out due to SyntaxError: invalid syntax
         serialization_format=mlflow.sklearn.SERIALIZATION_FORMAT_CLOUDPICKLE,
         input_example = X_val.iloc[:5]
