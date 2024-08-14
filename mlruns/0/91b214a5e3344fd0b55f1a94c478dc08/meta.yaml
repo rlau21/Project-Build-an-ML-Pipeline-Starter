@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/91b214a5e3344fd0b55f1a94c478dc08/artifacts
+end_time: 1723603331103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91b214a5e3344fd0b55f1a94c478dc08
+run_name: stylish-stoat-484
+run_uuid: 91b214a5e3344fd0b55f1a94c478dc08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723603252062
+status: 4
+tags: []
+user_id: root

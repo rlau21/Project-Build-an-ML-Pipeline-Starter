@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/76f07ee87a1f4d5dbbc50017e29b406a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76f07ee87a1f4d5dbbc50017e29b406a
+run_name: unleashed-shad-569
+run_uuid: 76f07ee87a1f4d5dbbc50017e29b406a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723605101624
+status: 1
+tags: []
+user_id: root

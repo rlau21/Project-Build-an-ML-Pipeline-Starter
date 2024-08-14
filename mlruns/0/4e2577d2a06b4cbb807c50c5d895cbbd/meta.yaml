@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/4e2577d2a06b4cbb807c50c5d895cbbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e2577d2a06b4cbb807c50c5d895cbbd
+run_name: aged-finch-35
+run_uuid: 4e2577d2a06b4cbb807c50c5d895cbbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723603637074
+status: 1
+tags: []
+user_id: root

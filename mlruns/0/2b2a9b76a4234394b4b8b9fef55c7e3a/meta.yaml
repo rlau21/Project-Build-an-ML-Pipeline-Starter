@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/2b2a9b76a4234394b4b8b9fef55c7e3a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b2a9b76a4234394b4b8b9fef55c7e3a
+run_name: indecisive-wolf-657
+run_uuid: 2b2a9b76a4234394b4b8b9fef55c7e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723604856575
+status: 1
+tags: []
+user_id: root

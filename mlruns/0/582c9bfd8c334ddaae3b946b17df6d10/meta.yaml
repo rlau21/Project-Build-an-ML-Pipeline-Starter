@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/582c9bfd8c334ddaae3b946b17df6d10/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 582c9bfd8c334ddaae3b946b17df6d10
+run_name: amazing-foal-636
+run_uuid: 582c9bfd8c334ddaae3b946b17df6d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723605042723
+status: 1
+tags: []
+user_id: root

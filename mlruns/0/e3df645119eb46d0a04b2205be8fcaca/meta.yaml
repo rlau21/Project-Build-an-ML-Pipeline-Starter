@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e3df645119eb46d0a04b2205be8fcaca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3df645119eb46d0a04b2205be8fcaca
+run_name: treasured-lamb-594
+run_uuid: e3df645119eb46d0a04b2205be8fcaca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723604790875
+status: 1
+tags: []
+user_id: root

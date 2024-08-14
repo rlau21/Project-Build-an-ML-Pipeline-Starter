@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/cf7d53a6148c4f3a92074d44bb7d17c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf7d53a6148c4f3a92074d44bb7d17c3
+run_name: resilient-smelt-345
+run_uuid: cf7d53a6148c4f3a92074d44bb7d17c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723604787931
+status: 1
+tags: []
+user_id: root

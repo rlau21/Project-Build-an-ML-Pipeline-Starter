@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/9f5d6c6dfc04499fb51842b5b7bc0e0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f5d6c6dfc04499fb51842b5b7bc0e0c
+run_name: languid-foal-487
+run_uuid: 9f5d6c6dfc04499fb51842b5b7bc0e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723605320118
+status: 1
+tags: []
+user_id: root

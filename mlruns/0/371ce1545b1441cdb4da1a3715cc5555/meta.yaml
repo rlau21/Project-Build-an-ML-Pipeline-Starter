@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/371ce1545b1441cdb4da1a3715cc5555/artifacts
+end_time: 1723602993158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 371ce1545b1441cdb4da1a3715cc5555
+run_name: receptive-dog-980
+run_uuid: 371ce1545b1441cdb4da1a3715cc5555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723602793807
+status: 4
+tags: []
+user_id: root

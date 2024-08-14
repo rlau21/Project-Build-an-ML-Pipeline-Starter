@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0f0d7118ff4c4c70abd0435c3e2457f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f0d7118ff4c4c70abd0435c3e2457f9
+run_name: rebellious-mouse-375
+run_uuid: 0f0d7118ff4c4c70abd0435c3e2457f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723604031285
+status: 1
+tags: []
+user_id: root
