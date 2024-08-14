@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/21ab844423d34ac088d54367642a70c4/artifacts
+end_time: 1723638487993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21ab844423d34ac088d54367642a70c4
+run_name: bright-sloth-499
+run_uuid: 21ab844423d34ac088d54367642a70c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723638467152
+status: 4
+tags: []
+user_id: root
