@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/09bb8e446e3d411e8edcb7bd4fac8925/artifacts
+end_time: 1723594707866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09bb8e446e3d411e8edcb7bd4fac8925
+run_name: carefree-swan-467
+run_uuid: 09bb8e446e3d411e8edcb7bd4fac8925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594633387
+status: 3
+tags: []
+user_id: root

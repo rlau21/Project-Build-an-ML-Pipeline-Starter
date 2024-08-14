@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/3334ef4c48784873b25b0299758b8d58/artifacts
+end_time: 1723594633203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3334ef4c48784873b25b0299758b8d58
+run_name: agreeable-wasp-465
+run_uuid: 3334ef4c48784873b25b0299758b8d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594510429
+status: 3
+tags: []
+user_id: root

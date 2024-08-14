@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/991e67c6e76b4fc882cc1683ab7c9fba/artifacts
+end_time: 1723594840263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 991e67c6e76b4fc882cc1683ab7c9fba
+run_name: puzzled-asp-346
+run_uuid: 991e67c6e76b4fc882cc1683ab7c9fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594428694
+status: 3
+tags: []
+user_id: root

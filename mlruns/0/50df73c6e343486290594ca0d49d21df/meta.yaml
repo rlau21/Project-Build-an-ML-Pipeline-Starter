@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/50df73c6e343486290594ca0d49d21df/artifacts
+end_time: 1723594510206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50df73c6e343486290594ca0d49d21df
+run_name: melodic-shad-433
+run_uuid: 50df73c6e343486290594ca0d49d21df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594433021
+status: 3
+tags: []
+user_id: root

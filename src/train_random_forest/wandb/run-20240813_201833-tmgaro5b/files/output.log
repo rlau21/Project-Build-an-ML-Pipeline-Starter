@@ -1,0 +1,52 @@
+2024-08-13 20:18:37,190 Minimum price: 10, Maximum price: 350
+2024-08-13 20:18:37,214 Preparing sklearn pipeline
+2024-08-13 20:18:37,215 Fitting
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-08-13 20:20:28,808 Scoring
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-08-13 20:20:29,218 Score: 0.552568887885921
+2024-08-13 20:20:29,219 MAE: 33.45150822368421
+2024-08-13 20:20:29,220 Exporting model
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/mlflow/models/signature.py:351: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  input_schema = _infer_schema(input_example)
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/lib/python3.9/site-packages/_distutils_hack/__init__.py:32: UserWarning: Setuptools is replacing distutils. Support for replacing an already imported distutils is deprecated. In the future, this condition will fail. Register concerns at https://github.com/pypa/setuptools/issues/new?template=distutils-deprecation.yml
+  warnings.warn(
+[34m[1mwandb[39m[22m: Adding directory to artifact (./random_forest_dir)... Done. 0.2s

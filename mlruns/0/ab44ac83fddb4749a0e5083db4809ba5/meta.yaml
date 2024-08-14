@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/ab44ac83fddb4749a0e5083db4809ba5/artifacts
+end_time: 1723593962232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab44ac83fddb4749a0e5083db4809ba5
+run_name: sincere-fox-454
+run_uuid: ab44ac83fddb4749a0e5083db4809ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723593885817
+status: 4
+tags: []
+user_id: root

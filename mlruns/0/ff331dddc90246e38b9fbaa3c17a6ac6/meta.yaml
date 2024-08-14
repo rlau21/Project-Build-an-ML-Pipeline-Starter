@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/ff331dddc90246e38b9fbaa3c17a6ac6/artifacts
+end_time: 1723594101936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff331dddc90246e38b9fbaa3c17a6ac6
+run_name: useful-chimp-738
+run_uuid: ff331dddc90246e38b9fbaa3c17a6ac6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723593962632
+status: 4
+tags: []
+user_id: root

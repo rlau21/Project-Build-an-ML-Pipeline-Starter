@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/dddc255fa4834b00b0d83ba19b374946/artifacts
+end_time: 1723593791496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dddc255fa4834b00b0d83ba19b374946
+run_name: powerful-shrew-809
+run_uuid: dddc255fa4834b00b0d83ba19b374946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723593734439
+status: 4
+tags: []
+user_id: root

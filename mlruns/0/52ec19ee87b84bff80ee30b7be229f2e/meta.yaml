@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/52ec19ee87b84bff80ee30b7be229f2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52ec19ee87b84bff80ee30b7be229f2e
+run_name: abrasive-worm-790
+run_uuid: 52ec19ee87b84bff80ee30b7be229f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594236731
+status: 1
+tags: []
+user_id: root
