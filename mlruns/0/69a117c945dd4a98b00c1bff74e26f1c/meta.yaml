@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/69a117c945dd4a98b00c1bff74e26f1c/artifacts
+end_time: 1723638141362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69a117c945dd4a98b00c1bff74e26f1c
+run_name: serious-whale-819
+run_uuid: 69a117c945dd4a98b00c1bff74e26f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723638098754
+status: 3
+tags: []
+user_id: root

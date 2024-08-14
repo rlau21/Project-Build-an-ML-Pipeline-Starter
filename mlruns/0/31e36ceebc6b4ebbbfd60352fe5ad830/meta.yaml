@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/31e36ceebc6b4ebbbfd60352fe5ad830/artifacts
+end_time: 1723638325874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31e36ceebc6b4ebbbfd60352fe5ad830
+run_name: silent-ox-799
+run_uuid: 31e36ceebc6b4ebbbfd60352fe5ad830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723638093158
+status: 3
+tags: []
+user_id: root
