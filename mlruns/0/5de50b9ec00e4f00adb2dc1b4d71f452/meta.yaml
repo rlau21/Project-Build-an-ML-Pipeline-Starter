@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/5de50b9ec00e4f00adb2dc1b4d71f452/artifacts
+end_time: 1723599740761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5de50b9ec00e4f00adb2dc1b4d71f452
+run_name: wistful-loon-439
+run_uuid: 5de50b9ec00e4f00adb2dc1b4d71f452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723599726396
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/361ea093bbfd4b169f2d003ab69e7778/artifacts
+end_time: 1723599711754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 361ea093bbfd4b169f2d003ab69e7778
+run_name: bouncy-mare-312
+run_uuid: 361ea093bbfd4b169f2d003ab69e7778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723599585140
+status: 4
+tags: []
+user_id: root
