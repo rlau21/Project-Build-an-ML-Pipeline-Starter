@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/944078cdc0134f4cbd930a10bcb477d0/artifacts
+end_time: 1723598985182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944078cdc0134f4cbd930a10bcb477d0
+run_name: skillful-croc-439
+run_uuid: 944078cdc0134f4cbd930a10bcb477d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723598971655
+status: 4
+tags: []
+user_id: root

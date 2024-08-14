@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/865cbb1ba7114a439b4c9492d710ed67/artifacts
+end_time: 1723599012278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 865cbb1ba7114a439b4c9492d710ed67
+run_name: colorful-gull-10
+run_uuid: 865cbb1ba7114a439b4c9492d710ed67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723598998427
+status: 4
+tags: []
+user_id: root
