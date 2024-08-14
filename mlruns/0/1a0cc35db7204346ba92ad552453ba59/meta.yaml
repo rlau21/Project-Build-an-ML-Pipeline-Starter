@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/1a0cc35db7204346ba92ad552453ba59/artifacts
+end_time: 1723600973045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a0cc35db7204346ba92ad552453ba59
+run_name: loud-snake-807
+run_uuid: 1a0cc35db7204346ba92ad552453ba59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723600954123
+status: 4
+tags: []
+user_id: root

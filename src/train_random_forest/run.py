@@ -20,15 +20,17 @@ from sklearn.compose import ColumnTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OrdinalEncoder, FunctionTransformer
+#from sklearn.preprocessing import OrdinalEncoder, FunctionTransformer
+
+# added for OneHotEncoder to work
+from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder, FunctionTransformer
 
 import wandb
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import Pipeline, make_pipeline
 
-# added for OneHotEncoder to work
-from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder, FunctionTransformer
+
 
 
 def delta_date_feature(dates):
@@ -79,7 +81,7 @@ def go(args):
 
     ######################################
     # Fit the pipeline sk_pipe by calling the .fit method on X_train and y_train
-    sk_pipe.fit(X_train,y_train)
+    sk_pipe.fit(X_train, y_train)
     ######################################
 
     # Compute r2 and MAE
@@ -101,11 +103,11 @@ def go(args):
     ######################################
     # Save the sk_pipe pipeline as a mlflow.sklearn model in the directory "random_forest_dir"
     # HINT: use mlflow.sklearn.save_model
-    #signature = mlflow.models.infer_signature(X_val, y_pred)
+    signature = mlflow.models.infer_signature(X_val, y_pred)
     mlflow.sklearn.save_model(
         sk_model = sk_pipe,
         path = "random_forest_dir",
-        #signature = signature,
+        signature = signature,
         #new line added for issue resolution, commented back out due to SyntaxError: invalid syntax
         serialization_format=mlflow.sklearn.SERIALIZATION_FORMAT_CLOUDPICKLE,
         input_example = X_train.iloc[:5]
@@ -237,8 +239,8 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
 
     sk_pipe = Pipeline(
         steps =[
-        ("preprocessor", preprocessor),
-        ("random_forest", random_forest)
+            ("preprocessor", preprocessor),
+            ("random_forest", random_forest)
         ]
     )
 

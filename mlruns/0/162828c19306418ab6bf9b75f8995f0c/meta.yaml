@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/162828c19306418ab6bf9b75f8995f0c/artifacts
+end_time: 1723601016114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 162828c19306418ab6bf9b75f8995f0c
+run_name: amazing-auk-876
+run_uuid: 162828c19306418ab6bf9b75f8995f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723601001284
+status: 4
+tags: []
+user_id: root
