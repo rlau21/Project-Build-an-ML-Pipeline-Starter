@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/9acb2c39b3524d7ba6581f83c47b5984/artifacts
+end_time: 1723633801660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9acb2c39b3524d7ba6581f83c47b5984
+run_name: dazzling-zebra-422
+run_uuid: 9acb2c39b3524d7ba6581f83c47b5984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723633762642
+status: 4
+tags: []
+user_id: root

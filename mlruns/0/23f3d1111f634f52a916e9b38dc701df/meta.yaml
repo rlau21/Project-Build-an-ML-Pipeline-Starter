@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/23f3d1111f634f52a916e9b38dc701df/artifacts
+end_time: 1723633875875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23f3d1111f634f52a916e9b38dc701df
+run_name: ambitious-swan-608
+run_uuid: 23f3d1111f634f52a916e9b38dc701df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723633801779
+status: 4
+tags: []
+user_id: root
