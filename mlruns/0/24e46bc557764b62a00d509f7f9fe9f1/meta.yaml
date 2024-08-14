@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/24e46bc557764b62a00d509f7f9fe9f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24e46bc557764b62a00d509f7f9fe9f1
+run_name: bustling-ox-152
+run_uuid: 24e46bc557764b62a00d509f7f9fe9f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723605757378
+status: 1
+tags: []
+user_id: root
