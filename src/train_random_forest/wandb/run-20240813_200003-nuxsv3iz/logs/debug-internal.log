@@ -1,0 +1,73 @@
+2024-08-13 20:00:03,733 INFO    StreamThr :353360 [internal.py:wandb_internal():86] W&B internal server running at pid: 353360, started at: 2024-08-13 20:00:03.732381
+2024-08-13 20:00:03,735 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status
+2024-08-13 20:00:03,740 INFO    WriterThread:353360 [datastore.py:open_for_write():85] open: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/run-nuxsv3iz.wandb
+2024-08-13 20:00:03,740 DEBUG   SenderThread:353360 [sender.py:send():380] send: header
+2024-08-13 20:00:03,748 DEBUG   SenderThread:353360 [sender.py:send():380] send: run
+2024-08-13 20:00:03,934 INFO    SenderThread:353360 [dir_watcher.py:__init__():211] watching files in: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files
+2024-08-13 20:00:03,934 INFO    SenderThread:353360 [sender.py:_start_run_threads():1124] run started: nuxsv3iz with start time 1723593603.732367
+2024-08-13 20:00:03,941 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: check_version
+2024-08-13 20:00:03,942 DEBUG   SenderThread:353360 [sender.py:send_request():407] send_request: check_version
+2024-08-13 20:00:04,022 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: run_start
+2024-08-13 20:00:04,023 DEBUG   HandlerThread:353360 [system_info.py:__init__():32] System info init
+2024-08-13 20:00:04,023 DEBUG   HandlerThread:353360 [system_info.py:__init__():47] System info init done
+2024-08-13 20:00:04,023 INFO    HandlerThread:353360 [system_monitor.py:start():194] Starting system monitor
+2024-08-13 20:00:04,023 INFO    SystemMonitor:353360 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-08-13 20:00:04,024 INFO    HandlerThread:353360 [system_monitor.py:probe():214] Collecting system info
+2024-08-13 20:00:04,026 INFO    SystemMonitor:353360 [interfaces.py:start():190] Started cpu monitoring
+2024-08-13 20:00:04,028 INFO    SystemMonitor:353360 [interfaces.py:start():190] Started disk monitoring
+2024-08-13 20:00:04,031 INFO    SystemMonitor:353360 [interfaces.py:start():190] Started memory monitoring
+2024-08-13 20:00:04,032 INFO    SystemMonitor:353360 [interfaces.py:start():190] Started network monitoring
+2024-08-13 20:00:04,041 DEBUG   HandlerThread:353360 [system_info.py:probe():196] Probing system
+2024-08-13 20:00:04,057 DEBUG   HandlerThread:353360 [system_info.py:_probe_git():181] Probing git
+2024-08-13 20:00:04,068 DEBUG   HandlerThread:353360 [system_info.py:_probe_git():189] Probing git done
+2024-08-13 20:00:04,068 DEBUG   HandlerThread:353360 [system_info.py:probe():244] Probing system done
+2024-08-13 20:00:04,068 DEBUG   HandlerThread:353360 [system_monitor.py:probe():223] {'os': 'Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.9.19', 'heartbeatAt': '2024-08-14T00:00:04.041949', 'startedAt': '2024-08-14T00:00:03.726330', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/root/Project-Build-an-ML-Pipeline-Starter-1/multirun/2024-08-13/19-59-15/1/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py', 'codePathLocal': 'run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/rlau21/Project-Build-an-ML-Pipeline-Starter.git', 'commit': 'c701773cc1fae90a704fdeacb6db7f295be246b2'}, 'email': 'rlau21@wgu.edu', 'root': '/root/Project-Build-an-ML-Pipeline-Starter-1', 'host': 'DESKTOP-A3AA8I3', 'username': 'root', 'executable': '/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/bin/python', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 1497.6020000000003, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}, {'current': 1497.602, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 1006.853931427002, 'used': 12.86129379272461}}, 'memory': {'total': 3.6902198791503906}}
+2024-08-13 20:00:04,068 INFO    HandlerThread:353360 [system_monitor.py:probe():224] Finished collecting system info
+2024-08-13 20:00:04,068 INFO    HandlerThread:353360 [system_monitor.py:probe():227] Publishing system info
+2024-08-13 20:00:04,068 DEBUG   HandlerThread:353360 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2024-08-13 20:00:04,068 DEBUG   HandlerThread:353360 [system_info.py:_save_pip():68] Saving pip packages done
+2024-08-13 20:00:04,068 DEBUG   HandlerThread:353360 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2024-08-13 20:00:04,936 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_created():271] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/conda-environment.yaml
+2024-08-13 20:00:04,936 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_created():271] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/requirements.txt
+2024-08-13 20:00:05,419 DEBUG   HandlerThread:353360 [system_info.py:_save_conda():87] Saving conda packages done
+2024-08-13 20:00:05,420 INFO    HandlerThread:353360 [system_monitor.py:probe():229] Finished publishing system info
+2024-08-13 20:00:05,423 DEBUG   SenderThread:353360 [sender.py:send():380] send: files
+2024-08-13 20:00:05,423 INFO    SenderThread:353360 [sender.py:_save_file():1380] saving file wandb-metadata.json with policy now
+2024-08-13 20:00:05,429 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: stop_status
+2024-08-13 20:00:05,430 DEBUG   SenderThread:353360 [sender.py:send_request():407] send_request: stop_status
+2024-08-13 20:00:05,431 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: internal_messages
+2024-08-13 20:00:05,567 DEBUG   SenderThread:353360 [sender.py:send():380] send: telemetry
+2024-08-13 20:00:05,569 DEBUG   SenderThread:353360 [sender.py:send():380] send: config
+2024-08-13 20:00:05,569 DEBUG   SenderThread:353360 [sender.py:send():380] send: config
+2024-08-13 20:00:05,758 DEBUG   SenderThread:353360 [sender.py:send():380] send: use_artifact
+2024-08-13 20:00:05,817 INFO    wandb-upload_0:353360 [upload_job.py:push():131] Uploaded file /tmp/tmpxmmna7bfwandb/rxr57zzl-wandb-metadata.json
+2024-08-13 20:00:05,935 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_modified():288] file/dir modified: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/conda-environment.yaml
+2024-08-13 20:00:05,935 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_created():271] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/wandb-metadata.json
+2024-08-13 20:00:06,935 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_created():271] file/dir created: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/output.log
+2024-08-13 20:00:08,938 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_modified():288] file/dir modified: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/output.log
+2024-08-13 20:00:09,064 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:14,065 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:19,075 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:20,429 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: stop_status
+2024-08-13 20:00:20,430 DEBUG   SenderThread:353360 [sender.py:send_request():407] send_request: stop_status
+2024-08-13 20:00:20,435 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: internal_messages
+2024-08-13 20:00:24,575 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:29,576 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:34,589 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:34,964 INFO    Thread-12 :353360 [dir_watcher.py:_on_file_modified():288] file/dir modified: /root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240813_200003-nuxsv3iz/files/config.yaml
+2024-08-13 20:00:35,428 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: stop_status
+2024-08-13 20:00:35,430 DEBUG   SenderThread:353360 [sender.py:send_request():407] send_request: stop_status
+2024-08-13 20:00:35,474 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: internal_messages
+2024-08-13 20:00:40,573 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:45,575 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:50,430 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: stop_status
+2024-08-13 20:00:50,432 DEBUG   SenderThread:353360 [sender.py:send_request():407] send_request: stop_status
+2024-08-13 20:00:50,472 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: internal_messages
+2024-08-13 20:00:51,555 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:56,560 DEBUG   HandlerThread:353360 [handler.py:handle_request():146] handle_request: status_report
+2024-08-13 20:00:58,204 INFO    memory    :353360 [interfaces.py:monitor():140] Process proc.memory.rssMB has exited.
+2024-08-13 20:00:58,205 DEBUG   SystemMonitor:353360 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-08-13 20:00:58,205 DEBUG   SystemMonitor:353360 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-08-13 20:00:58,206 DEBUG   SystemMonitor:353360 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-08-13 20:00:58,208 DEBUG   SenderThread:353360 [sender.py:send():380] send: stats
+2024-08-13 20:00:59,210 INFO    MainThread:353360 [internal.py:handle_exit():76] Internal process exited

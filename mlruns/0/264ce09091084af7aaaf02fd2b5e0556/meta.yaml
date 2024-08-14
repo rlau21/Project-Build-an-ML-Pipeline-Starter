@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/264ce09091084af7aaaf02fd2b5e0556/artifacts
+end_time: 1723590340195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 264ce09091084af7aaaf02fd2b5e0556
+run_name: nimble-koi-423
+run_uuid: 264ce09091084af7aaaf02fd2b5e0556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723590254321
+status: 4
+tags: []
+user_id: root
