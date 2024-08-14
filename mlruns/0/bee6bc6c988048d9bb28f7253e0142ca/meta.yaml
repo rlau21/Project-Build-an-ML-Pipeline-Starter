@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/bee6bc6c988048d9bb28f7253e0142ca/artifacts
+end_time: 1723636944719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee6bc6c988048d9bb28f7253e0142ca
+run_name: welcoming-snake-333
+run_uuid: bee6bc6c988048d9bb28f7253e0142ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723636907174
+status: 4
+tags: []
+user_id: root

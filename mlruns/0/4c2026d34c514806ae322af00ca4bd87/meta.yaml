@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/4c2026d34c514806ae322af00ca4bd87/artifacts
+end_time: 1723637042078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c2026d34c514806ae322af00ca4bd87
+run_name: bouncy-quail-28
+run_uuid: 4c2026d34c514806ae322af00ca4bd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723637004324
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/649142cda8c24d1492905486e7038ab7/artifacts
+end_time: 1723637106612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 649142cda8c24d1492905486e7038ab7
+run_name: fun-ram-527
+run_uuid: 649142cda8c24d1492905486e7038ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723637042198
+status: 4
+tags: []
+user_id: root
