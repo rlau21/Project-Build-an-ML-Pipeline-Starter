@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/ef8ffcddf23f4c87861d252dd4bb86f5/artifacts
+end_time: 1723598396647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef8ffcddf23f4c87861d252dd4bb86f5
+run_name: kindly-shark-186
+run_uuid: ef8ffcddf23f4c87861d252dd4bb86f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723598383912
+status: 4
+tags: []
+user_id: root

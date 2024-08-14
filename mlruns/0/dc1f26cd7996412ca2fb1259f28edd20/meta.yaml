@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/dc1f26cd7996412ca2fb1259f28edd20/artifacts
+end_time: 1723598020262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc1f26cd7996412ca2fb1259f28edd20
+run_name: wistful-midge-746
+run_uuid: dc1f26cd7996412ca2fb1259f28edd20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723597916157
+status: 4
+tags: []
+user_id: root

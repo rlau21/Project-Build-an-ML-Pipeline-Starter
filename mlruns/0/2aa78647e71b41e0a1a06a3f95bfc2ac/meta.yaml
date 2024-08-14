@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/2aa78647e71b41e0a1a06a3f95bfc2ac/artifacts
+end_time: 1723598059211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aa78647e71b41e0a1a06a3f95bfc2ac
+run_name: entertaining-cod-984
+run_uuid: 2aa78647e71b41e0a1a06a3f95bfc2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723597815453
+status: 4
+tags: []
+user_id: root

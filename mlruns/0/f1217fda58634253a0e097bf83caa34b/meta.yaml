@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/f1217fda58634253a0e097bf83caa34b/artifacts
+end_time: 1723598516997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1217fda58634253a0e097bf83caa34b
+run_name: mercurial-croc-963
+run_uuid: f1217fda58634253a0e097bf83caa34b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723598504970
+status: 4
+tags: []
+user_id: root

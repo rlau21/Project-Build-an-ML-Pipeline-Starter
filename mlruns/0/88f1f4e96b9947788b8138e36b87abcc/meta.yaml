@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/88f1f4e96b9947788b8138e36b87abcc/artifacts
+end_time: 1723598033156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88f1f4e96b9947788b8138e36b87abcc
+run_name: efficient-kit-757
+run_uuid: 88f1f4e96b9947788b8138e36b87abcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723598020435
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/cf1dd7a7a80f4e338e531010edd1da35/artifacts
+end_time: 1723598409686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf1dd7a7a80f4e338e531010edd1da35
+run_name: burly-horse-231
+run_uuid: cf1dd7a7a80f4e338e531010edd1da35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723598396762
+status: 4
+tags: []
+user_id: root
