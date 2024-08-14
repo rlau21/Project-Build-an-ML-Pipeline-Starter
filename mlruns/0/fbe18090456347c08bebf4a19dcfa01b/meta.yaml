@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/fbe18090456347c08bebf4a19dcfa01b/artifacts
+end_time: 1723597132934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbe18090456347c08bebf4a19dcfa01b
+run_name: intrigued-snake-557
+run_uuid: fbe18090456347c08bebf4a19dcfa01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723597048422
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/611390b51714435ba43bf581cdea640a/artifacts
+end_time: 1723596812138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 611390b51714435ba43bf581cdea640a
+run_name: carefree-bird-664
+run_uuid: 611390b51714435ba43bf581cdea640a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723596793157
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/77f2e56ac26046fdb193c1e9906a617b/artifacts
+end_time: 1723596811772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77f2e56ac26046fdb193c1e9906a617b
+run_name: calm-koi-380
+run_uuid: 77f2e56ac26046fdb193c1e9906a617b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723596797994
+status: 4
+tags: []
+user_id: root
