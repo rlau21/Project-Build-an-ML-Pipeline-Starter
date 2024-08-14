@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/81da59db228244079fb3c76a14b92552/artifacts
+end_time: 1723646237511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81da59db228244079fb3c76a14b92552
+run_name: carefree-zebra-877
+run_uuid: 81da59db228244079fb3c76a14b92552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723646223049
+status: 4
+tags: []
+user_id: root
