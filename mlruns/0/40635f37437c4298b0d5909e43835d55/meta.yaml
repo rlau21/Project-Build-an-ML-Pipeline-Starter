@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/40635f37437c4298b0d5909e43835d55/artifacts
+end_time: 1723632916097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40635f37437c4298b0d5909e43835d55
+run_name: shivering-dog-362
+run_uuid: 40635f37437c4298b0d5909e43835d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723632880901
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/a6c4c7a89d7f4f66a6e936f1149bd8a9/artifacts
+end_time: 1723631753016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6c4c7a89d7f4f66a6e936f1149bd8a9
+run_name: chill-horse-565
+run_uuid: a6c4c7a89d7f4f66a6e936f1149bd8a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723631693330
+status: 4
+tags: []
+user_id: root

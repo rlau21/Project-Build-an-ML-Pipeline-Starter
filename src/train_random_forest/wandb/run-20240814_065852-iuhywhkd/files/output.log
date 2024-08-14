@@ -1,0 +1,49 @@
+2024-08-14 06:58:54,902 Minimum price: 10, Maximum price: 350
+2024-08-14 06:58:54,916 Preparing sklearn pipeline
+2024-08-14 06:58:54,918 Fitting
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-08-14 06:59:25,587 Scoring
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-08-14 06:59:25,780 Score: 0.5507180655211765
+2024-08-14 06:59:25,781 MAE: 33.530625
+2024-08-14 06:59:25,781 Exporting model
+Traceback (most recent call last):
+  File "/root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py", line 310, in <module>
+    go(args)
+  File "/root/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/run.py", line 114, in go
+    signature = infer_signature(.5, 1),
+  File "/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/mlflow/models/signature.py", line 212, in infer_signature
+    inputs = _infer_schema(model_input) if model_input is not None else None
+  File "/root/miniconda3/envs/mlflow-a80a234bc52072cc686cfae0406802464f22dfb6/lib/python3.9/site-packages/mlflow/types/utils.py", line 187, in _infer_schema
+    raise TypeError(
+TypeError: ('Expected one of the following types:\n- pandas.DataFrame\n- pandas.Series\n- numpy.ndarray\n- dictionary of (name -> numpy.ndarray)\n- pyspark.sql.DataFrame\n', "- scipy.sparse.csr_matrix\n- scipy.sparse.csc_matrix\n- str\n- List[str]\n- List[Dict[str, Union[str, List[str]]]]\n- Dict[str, Union[str, List[str]]]\n- bytes\nbut got '<class 'float'>'")

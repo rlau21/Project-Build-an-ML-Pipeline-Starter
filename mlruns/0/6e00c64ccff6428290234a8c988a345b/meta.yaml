@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/6e00c64ccff6428290234a8c988a345b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e00c64ccff6428290234a8c988a345b
+run_name: magnificent-mule-431
+run_uuid: 6e00c64ccff6428290234a8c988a345b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723606329540
+status: 1
+tags: []
+user_id: root

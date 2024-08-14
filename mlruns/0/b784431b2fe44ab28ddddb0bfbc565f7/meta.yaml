@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/b784431b2fe44ab28ddddb0bfbc565f7/artifacts
+end_time: 1723632132243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b784431b2fe44ab28ddddb0bfbc565f7
+run_name: persistent-chimp-40
+run_uuid: b784431b2fe44ab28ddddb0bfbc565f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723632091096
+status: 3
+tags: []
+user_id: root

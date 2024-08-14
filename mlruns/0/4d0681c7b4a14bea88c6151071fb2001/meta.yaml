@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/4d0681c7b4a14bea88c6151071fb2001/artifacts
+end_time: 1723633250712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0681c7b4a14bea88c6151071fb2001
+run_name: unequaled-finch-277
+run_uuid: 4d0681c7b4a14bea88c6151071fb2001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723633022435
+status: 4
+tags: []
+user_id: root

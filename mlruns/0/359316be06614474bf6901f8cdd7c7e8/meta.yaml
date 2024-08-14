@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/359316be06614474bf6901f8cdd7c7e8/artifacts
+end_time: 1723631693184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 359316be06614474bf6901f8cdd7c7e8
+run_name: colorful-croc-775
+run_uuid: 359316be06614474bf6901f8cdd7c7e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723631655378
+status: 4
+tags: []
+user_id: root

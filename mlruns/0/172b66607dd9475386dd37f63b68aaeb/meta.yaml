@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/172b66607dd9475386dd37f63b68aaeb/artifacts
+end_time: 1723606537022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 172b66607dd9475386dd37f63b68aaeb
+run_name: useful-jay-596
+run_uuid: 172b66607dd9475386dd37f63b68aaeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723606535061
+status: 4
+tags: []
+user_id: root

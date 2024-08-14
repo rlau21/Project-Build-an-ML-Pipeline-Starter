@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/246027fed2594885b270d11cf0148ca0/artifacts
+end_time: 1723632813870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 246027fed2594885b270d11cf0148ca0
+run_name: luxuriant-zebra-993
+run_uuid: 246027fed2594885b270d11cf0148ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723632779062
+status: 4
+tags: []
+user_id: root

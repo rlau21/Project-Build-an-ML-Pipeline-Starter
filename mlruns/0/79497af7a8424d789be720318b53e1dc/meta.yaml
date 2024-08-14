@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/79497af7a8424d789be720318b53e1dc/artifacts
+end_time: 1723632880772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79497af7a8424d789be720318b53e1dc
+run_name: blushing-kit-622
+run_uuid: 79497af7a8424d789be720318b53e1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723632813995
+status: 4
+tags: []
+user_id: root
