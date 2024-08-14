@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e51f3122caa4481cb64a7333f237b8a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e51f3122caa4481cb64a7333f237b8a3
+run_name: languid-vole-4
+run_uuid: e51f3122caa4481cb64a7333f237b8a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723638611277
+status: 1
+tags: []
+user_id: root

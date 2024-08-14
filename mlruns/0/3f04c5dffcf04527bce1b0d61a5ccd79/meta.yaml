@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/3f04c5dffcf04527bce1b0d61a5ccd79/artifacts
+end_time: 1723640303852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f04c5dffcf04527bce1b0d61a5ccd79
+run_name: respected-perch-782
+run_uuid: 3f04c5dffcf04527bce1b0d61a5ccd79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723640301709
+status: 4
+tags: []
+user_id: root

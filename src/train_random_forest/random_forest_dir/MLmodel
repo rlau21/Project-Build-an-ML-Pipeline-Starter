@@ -14,9 +14,9 @@ flavors:
     sklearn_version: 0.24.1
 mlflow_version: 2.8.1
 model_size_bytes: 48401312
-model_uuid: 19c0af83532f4e7ca37c1d5e95679d5a
+model_uuid: 14d9263297484729ad759e6ec08d5bdc
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
   type: dataframe
-utc_time_created: '2024-08-14 12:25:13.742973'
+utc_time_created: '2024-08-14 13:21:29.895910'

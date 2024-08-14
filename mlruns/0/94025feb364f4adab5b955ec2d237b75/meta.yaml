@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/94025feb364f4adab5b955ec2d237b75/artifacts
+end_time: 1723640301577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94025feb364f4adab5b955ec2d237b75
+run_name: rumbling-chimp-481
+run_uuid: 94025feb364f4adab5b955ec2d237b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723640299254
+status: 4
+tags: []
+user_id: root

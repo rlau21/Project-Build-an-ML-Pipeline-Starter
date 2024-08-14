@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/92cd9b0fd52d4b06baa6b65acb772102/artifacts
+end_time: 1723641380629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92cd9b0fd52d4b06baa6b65acb772102
+run_name: fearless-jay-565
+run_uuid: 92cd9b0fd52d4b06baa6b65acb772102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723641292981
+status: 3
+tags: []
+user_id: root

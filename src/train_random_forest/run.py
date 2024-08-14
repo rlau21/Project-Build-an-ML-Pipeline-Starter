@@ -112,6 +112,7 @@ def go(args):
         #path = "random_forest_dir",
         export_path, #added for troubleshooting
         #signature = signature,
+        signature = False,
         #signature = infer_signature(.5, 1),
         #signature=signature,
         #new line added for issue resolution, commented back out due to SyntaxError: invalid syntax

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/a04a19e883c84963bc4775adec43c37a/artifacts
+end_time: 1723641565792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a04a19e883c84963bc4775adec43c37a
+run_name: popular-smelt-625
+run_uuid: a04a19e883c84963bc4775adec43c37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723641492525
+status: 3
+tags: []
+user_id: root

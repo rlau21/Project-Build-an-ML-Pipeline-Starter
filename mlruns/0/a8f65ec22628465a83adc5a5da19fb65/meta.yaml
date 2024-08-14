@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/a8f65ec22628465a83adc5a5da19fb65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8f65ec22628465a83adc5a5da19fb65
+run_name: nosy-snipe-283
+run_uuid: a8f65ec22628465a83adc5a5da19fb65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723639935748
+status: 1
+tags: []
+user_id: root
